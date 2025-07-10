@@ -22,7 +22,9 @@ Dhaka, Chittagong, Narayanganj, Sylhet, Rajshahi, Rangpur
 
 #### 📊 Key Features
 🌡️ Real-time weather data cards (temperature, humidity, wind)
+
 🌧️ Stacked bar chart for daily rain probabilities
+
 💨 Air Quality Index (AQI) visualizations using DAX:
 
  • Color-coded health levels
@@ -30,14 +32,22 @@ Dhaka, Chittagong, Narayanganj, Sylhet, Rajshahi, Rangpur
  • Status indicators (Good, Moderate, Unhealthy, etc.)
 
 🗺️ City-wise slicers
+
 🎨 Weather condition icons
+
 🔄 Live data pulled from WeatherAPI (JSON)
+
 🔁 Planned: Scheduled auto-refresh and cloud publishing
 
 #### 📈 Learning Highlights
+
 • Connecting Power BI to REST APIs
+
 • Expanding nested JSON in Power Query
+
 • Writing reusable and clean DAX measures
+
 • Real-time dashboard interactivity and design
+
 • Visualizing environmental data for public awareness
 
